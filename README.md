@@ -23,13 +23,6 @@ Multiple clients can connect to the server, send messages, and retrieve the full
 
 ---
 
-## 📁 Project Structure
-/simple_chat_room
-│── server.go # RPC server storing chat history
-└── client.go # Client program sending/receiving chat messages
-
----
-
 ## ⚙️ How It Works
 
 ### ✅ Server (`server.go`)
